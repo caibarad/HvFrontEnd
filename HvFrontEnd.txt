@@ -1,0 +1,24 @@
+=== 调试辅助工具 - 系统驱动操作日志 ===
+
+[软件信息]
+软件名称: 调试辅助工具
+软件版本: v1.0.0
+版权信息: 支持win10 - win11 
+
+[启动信息]
+启动时间: 2026-08-23 07:55:04
+
+[驱动状态]
+驱动名称: HvGuardDbg.sys
+加载时间: 2026-08-23 07:55:04
+
+[注册表信息]
+注册表路径: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HvGuardDbg
+启动类型: 3 (手动)
+镜像路径: \??\I:\HvGuardDbg\x64\Release\Deploy_x64\HvGuardDbg.sys
+
+[维护信息]
+技术支持: 菜霸 | Email 3593074503@qq.com
+日志生成时间: 2026-08-23 07:55:04
+
+=== 日志结束 ===
