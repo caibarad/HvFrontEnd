@@ -1,0 +1,18 @@
+[
+    {
+        "名称": "notepadx64",
+        "路径": "H:/x64dbg/x64dbg_2025-03-15_Mod_Green/release/x64/notepadx64.exe"
+    },
+    {
+        "名称": "HyperCE",
+        "路径": "C:/Users/Hook/Desktop/测试文件/CE/DogeCE/HyperCE.exe"
+    },
+    {
+        "名称": "notepad",
+        "路径": "H:/x64dbg/x64dbg_2025-03-15_Mod_Green/release/x32/notepad.exe"
+    },
+    {
+        "名称": "ce64",
+        "路径": "C:/Users/Hook/Desktop/测试文件/CE/ce7.2 x64修改版/ce64.exe"
+    }
+]
