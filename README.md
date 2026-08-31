@@ -6,7 +6,7 @@
 
 - Intel Xeon E5
 - Intel Core i5 / i7 / i9（任意代）
-- Intel Core Ultra（Arrow Lake）
+- Intel Core Ultra（Arrow Lake） - 已经发布1.0
 
 ## 开发计划
 
