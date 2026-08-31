@@ -1,4 +1,4 @@
-# HvGuard VT 调试器 - 有什么问题我会抽空修复
+# HvGuard VT 调试器
 
 基于 Intel VT-x 的虚拟化调试 / 反调试对抗框架。
 
